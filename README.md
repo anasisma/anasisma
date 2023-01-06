@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there 👋
+- I'm Anas Ismaili
+- I'm a computer science student @ Carleton University 
+- I'm interested in programming and similar activites
+- I'm always eager to learn new technologies/practices, whether it be at Carleton or through self-teaching
+- Reach me by email at: anasismaili@cmail.carleton.ca
 
 <!--
 **anasisma/anasisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
