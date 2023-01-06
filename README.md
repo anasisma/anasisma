@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there! 👋
 - I'm Anas Ismaili
 - I'm a computer science student @ Carleton University 
 - I'm interested in programming and similar activites
